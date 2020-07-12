@@ -1,0 +1,28 @@
+.navBar{
+    display: flex;
+    
+    background-color: tomato;
+}
+.image{
+    width: 10%;
+}
+.list{
+    align-content: center;
+    margin-top: 2%;
+    width: 70%;
+    
+}
+ul{
+    display: flex;
+    
+    list-style: none;
+    justify-content: space-between;
+}
+ul li a{
+    color: white;
+    font-size: 20px;
+}
+ul li a:hover{
+    color: white;
+    text-decoration: none;
+}
